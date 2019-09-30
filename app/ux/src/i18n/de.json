@@ -181,11 +181,11 @@
   "tray.title.starting": "startet...",
   "tray.menu.open": "Öffnen",
   "tray.menu.open.legend": "Interface öffnen",
-  "tray.menu.exit": "Quit",
-  "tray.menu.exit.legend": "Exit Cells Sync",
-  "tray.task.status.disabled": "disabled",
-  "tray.task.status.processing": "syncing",
-  "tray.task.status.paused": "paused",
-  "tray.task.status.error": "error!",
-  "tray.task.status.disconnected": "cannot connect!"
+  "tray.menu.exit": "Verlassen",
+  "tray.menu.exit.legend": "Cells Sync verlassen",
+  "tray.task.status.disabled": "deaktiviert",
+  "tray.task.status.processing": "synchronisiere",
+  "tray.task.status.paused": "pausiert",
+  "tray.task.status.error": "Fehler!",
+  "tray.task.status.disconnected": "kann sich nicht verbinden!"
 }
