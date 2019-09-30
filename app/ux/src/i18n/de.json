@@ -89,7 +89,7 @@
   "editor.triggers.hard.enabled": "Aktiviert (%s)",
   "editor.triggers.hard.disabled": "Deaktiviert (Aktivieren um eine vollständige resync zwischen Quellen zu planen)",
   "tree.title": "Ordner auswählen",
-  "tree.root.select.multiple": "Select folders",
+  "tree.root.select.multiple": "Ordner auswählen",
   "tree.root.select.unique": "Select a folder",
   "tree.create.folder.placeholder": "New folder name",
   "tree.create.folder": "Create Folder",
