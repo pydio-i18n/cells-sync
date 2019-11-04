@@ -109,7 +109,7 @@
   "tree.create.folder": "Crea cartella",
   "tree.alert.selection.empty": "Seleziona una cartella!",
   "tree.error.empty-root": "Nessun workspace rilevato! Non puoi sincronizzare i tuoi progetti.",
-  "tree.selective.will-be-created": "will be created on %s",
+  "tree.selective.will-be-created": "verrà creato su %s",
   "button.cancel": "Annulla",
   "button.save": "Salva",
   "button.select": "Seleziona",
