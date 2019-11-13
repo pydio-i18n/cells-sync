@@ -14,7 +14,7 @@
   "agent.modal.first.connect": "Jetzt verbinden",
   "language.switch": "Sprache wechseln",
   "nav.tasks": "Aufgaben",
-  "nav.servers": "Ihre Konten",
+  "nav.servers": "Konten",
   "nav.settings": "App-Einstellungen",
   "nav.logs": "Logs",
   "nav.debugger": "Go Debugger",
