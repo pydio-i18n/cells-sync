@@ -225,7 +225,7 @@
   "about.upgrade.status.up-to-date": "L'application est à jour",
   "about.upgrade.status.checking": "Recherche des mises à jour disponibles",
   "about.upgrade.status.available": "Les paquets suivants sont disponibles pour la mise à jour :",
-  "about.upgrade.status.error": "Something went wrong during update checks:",
+  "about.upgrade.status.error": "Une erreur est survenue lors des vérifications de mise à jour :",
   "about.upgrade.apply.error": "Impossible d'appliquer la mise à jour :",
   "about.upgrade.apply.downloading": "Téléchargement de %s...",
   "about.upgrade.apply.transferring": "Transfert de %s %d%",
